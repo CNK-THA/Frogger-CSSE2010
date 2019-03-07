@@ -12,4 +12,6 @@ Hardware Requirement:
   
 Hardware Setup:
 
-  
+![Instructions](https://github.com/CNK-THA/Frogger-CSSE2010/blob/master/Capture.PNG)
+        
+      
